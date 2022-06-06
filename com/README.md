@@ -42,7 +42,6 @@ Laravel is primarily being used as the framework that we build some of our inter
 |Technology Type| MVC Framework writte in JavaScript| JavaScript Library|
 |Data Bining | Two-Way | One-Way|
 |Concept | Converting JavaScript to HTML, work with real DOM client-ide analysi| Converting JavaScript to HTML work with the virtual DOM server-side analysis|
-
 |Dependency management | Automatically managed | Requires Additional tool|
 |Languae | JavaScript + HTML | JavaScript + JSX|
 |App architecture| MVC | Combined with Flux|
