@@ -152,7 +152,7 @@ React is an element-based, open-source library that is entirely accountable for 
 
 ### Unique Features of Laravel vs React
 | React | Laravel |
-| -------- | ------ | -------|
+| :-------- |  -------:|
 | Javacript Extention | Template Engine |
 | Virtual Document object Model | MVc Architecture |
 | One-way Data Binding | Securit |
